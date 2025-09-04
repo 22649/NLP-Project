@@ -1,0 +1,315 @@
+country,processed_name,name_cluster
+ASEAN (Ember),asean ember,1
+Afghanistan,afghanistan,3
+Africa,africa,4
+Africa (EI),africa ei,4
+Africa (EIA),africa eia,4
+Africa (Ember),africa ember,4
+Africa (Shift),africa shift,4
+Albania,albania,2
+Algeria,algeria,2
+American Samoa,american samoa,4
+Angola,angola,3
+Antarctica,antarctica,4
+Antigua and Barbuda,antigua and barbuda,3
+Argentina,argentina,0
+Armenia,armenia,2
+Aruba,aruba,0
+Asia,asia,2
+Asia & Oceania (EIA),asia oceania eia,1
+Asia (Ember),asia ember,1
+Asia Pacific (EI),asia pacific ei,1
+Asia and Oceania (Shift),asia and oceania shift,3
+Australia,australia,2
+Australia and New Zealand (EIA),australia and new zealand eia,3
+Austria,austria,2
+Azerbaijan,azerbaijan,3
+Bahamas,bahamas,0
+Bahrain,bahrain,0
+Bangladesh,bangladesh,3
+Barbados,barbados,0
+Belarus,belarus,0
+Belgium,belgium,0
+Belize,belize,0
+Benin,benin,0
+Bermuda,bermuda,0
+Bhutan,bhutan,3
+Bolivia,bolivia,2
+Bosnia and Herzegovina,bosnia and herzegovina,3
+Botswana,botswana,3
+Brazil,brazil,0
+British Virgin Islands,british virgin islands,3
+Brunei,brunei,0
+Bulgaria,bulgaria,2
+Burkina Faso,burkina faso,0
+Burundi,burundi,0
+CIS (EI),cis ei,1
+Cambodia,cambodia,2
+Cameroon,cameroon,0
+Canada,canada,3
+Cape Verde,cape verde,0
+Cayman Islands,cayman islands,3
+Central & South America (EIA),central south america eia,4
+Central African Republic,central african republic,4
+Central America (EI),central america ei,4
+Central and South America (Shift),central and south america shift,4
+Chad,chad,0
+Chile,chile,0
+China,china,0
+Colombia,colombia,2
+Comoros,comoros,0
+Congo,congo,0
+Cook Islands,cook islands,3
+Costa Rica,costa rica,4
+Cote d'Ivoire,cote divoire,0
+Croatia,croatia,2
+Cuba,cuba,0
+Curacao,curacao,0
+Cyprus,cyprus,0
+Czechia,czechia,2
+Czechoslovakia,czechoslovakia,2
+Democratic Republic of Congo,democratic republic of congo,0
+Denmark,denmark,0
+Djibouti,djibouti,0
+Dominica,dominica,4
+Dominican Republic,dominican republic,4
+EU (Ember),eu ember,1
+EU28 (Shift),eu shift,0
+East Germany,east germany,3
+East Timor,east timor,0
+Eastern Africa (EI),eastern africa ei,4
+Eastern Europe and Eurasia (EIA),eastern europe and eurasia eia,1
+Ecuador,ecuador,0
+Egypt,egypt,0
+El Salvador,el salvador,0
+Equatorial Guinea,equatorial guinea,0
+Eritrea,eritrea,0
+Estonia,estonia,2
+Eswatini,eswatini,0
+Ethiopia,ethiopia,2
+Eurasia (EIA),eurasia eia,1
+Eurasia (Shift),eurasia shift,0
+Europe,europe,0
+Europe (EI),europe ei,1
+Europe (EIA),europe eia,1
+Europe (Ember),europe ember,1
+Europe (Shift),europe shift,0
+European Union (27),european union,0
+Falkland Islands,falkland islands,3
+Faroe Islands,faroe islands,3
+Fiji,fiji,0
+Finland,finland,3
+France,france,3
+French Guiana,french guiana,2
+French Polynesia,french polynesia,0
+G20 (Ember),g ember,1
+G7 (Ember),g ember,1
+Gabon,gabon,0
+Gambia,gambia,2
+Georgia,georgia,2
+Germany,germany,3
+Ghana,ghana,3
+Gibraltar,gibraltar,0
+Greece,greece,0
+Greenland,greenland,3
+Grenada,grenada,0
+Guadeloupe,guadeloupe,0
+Guam,guam,2
+Guatemala,guatemala,0
+Guinea,guinea,0
+Guinea-Bissau,guineabissau,0
+Guyana,guyana,3
+Haiti,haiti,0
+High-income countries,highincome countries,0
+Honduras,honduras,0
+Hong Kong,hong kong,0
+Hungary,hungary,0
+Iceland,iceland,3
+India,india,2
+Indonesia,indonesia,0
+Iran,iran,3
+Iraq,iraq,0
+Ireland,ireland,3
+Israel,israel,0
+Italy,italy,0
+Jamaica,jamaica,4
+Japan,japan,3
+Jordan,jordan,3
+Kazakhstan,kazakhstan,3
+Kenya,kenya,0
+Kiribati,kiribati,0
+Kosovo,kosovo,0
+Kuwait,kuwait,0
+Kyrgyzstan,kyrgyzstan,3
+Laos,laos,0
+Latin America and Caribbean (Ember),latin america and caribbean ember,4
+Latvia,latvia,2
+Lebanon,lebanon,3
+Lesotho,lesotho,0
+Liberia,liberia,2
+Libya,libya,0
+Lithuania,lithuania,2
+Low-income countries,lowincome countries,0
+Lower-middle-income countries,lowermiddleincome countries,0
+Luxembourg,luxembourg,0
+Macao,macao,0
+Madagascar,madagascar,0
+Malawi,malawi,0
+Malaysia,malaysia,2
+Maldives,maldives,0
+Mali,mali,0
+Malta,malta,0
+Martinique,martinique,0
+Mauritania,mauritania,2
+Mauritius,mauritius,0
+Mexico,mexico,0
+Micronesia (country),micronesia country,0
+Middle Africa (EI),middle africa ei,4
+Middle East (EI),middle east ei,1
+Middle East (EIA),middle east eia,1
+Middle East (Ember),middle east ember,1
+Middle East (Shift),middle east shift,1
+Moldova,moldova,0
+Mongolia,mongolia,2
+Montenegro,montenegro,0
+Montserrat,montserrat,0
+Morocco,morocco,0
+Mozambique,mozambique,2
+Myanmar,myanmar,3
+Namibia,namibia,2
+Nauru,nauru,0
+Nepal,nepal,0
+Netherlands,netherlands,3
+Netherlands Antilles,netherlands antilles,3
+New Caledonia,new caledonia,2
+New Zealand,new zealand,3
+Nicaragua,nicaragua,0
+Niger,niger,0
+Nigeria,nigeria,2
+Niue,niue,0
+Non-OECD (EI),nonoecd ei,1
+Non-OECD (EIA),nonoecd eia,1
+Non-OPEC (EI),nonopec ei,1
+Non-OPEC (EIA),nonopec eia,1
+North America,north america,4
+North America (EI),north america ei,4
+North America (Ember),north america ember,4
+North America (Shift),north america shift,4
+North Korea,north korea,0
+North Macedonia,north macedonia,2
+Northern Mariana Islands,northern mariana islands,3
+Norway,norway,0
+OECD (EI),oecd ei,1
+OECD (EIA),oecd eia,1
+OECD (Ember),oecd ember,1
+OECD (Shift),oecd shift,0
+OPEC (EI),opec ei,1
+OPEC (EIA),opec eia,1
+OPEC (Shift),opec shift,0
+Oceania,oceania,2
+Oceania (Ember),oceania ember,1
+Oman,oman,3
+Other Africa (EI),other africa ei,4
+Other Americas (EIA),other americas eia,4
+Other Asia Pacific (EI),other asia pacific ei,1
+Other Asia-Pacific (EIA),other asiapacific eia,1
+Other CIS (EI),other cis ei,1
+Other Caribbean (EI),other caribbean ei,1
+Other Eastern Africa (EI),other eastern africa ei,4
+Other Europe (EI),other europe ei,1
+Other Middle Africa (EI),other middle africa ei,4
+Other Middle East (EI),other middle east ei,1
+Other North America (EI),other north america ei,4
+Other Northern Africa (EI),other northern africa ei,4
+Other South America (EI),other south america ei,4
+Other South and Central America (EI),other south and central america ei,4
+Other Southern Africa (EI),other southern africa ei,4
+Other Western Africa (EI),other western africa ei,4
+Pakistan,pakistan,3
+Palestine,palestine,0
+Panama,panama,3
+Papua New Guinea,papua new guinea,0
+Paraguay,paraguay,0
+Persian Gulf (EIA),persian gulf eia,1
+Persian Gulf (Shift),persian gulf shift,2
+Peru,peru,0
+Philippines,philippines,0
+Poland,poland,3
+Portugal,portugal,0
+Puerto Rico,puerto rico,4
+Qatar,qatar,0
+Rest of World (EI),rest of world ei,1
+Reunion,reunion,0
+Romania,romania,2
+Russia,russia,2
+Rwanda,rwanda,3
+Saint Helena,saint helena,0
+Saint Kitts and Nevis,saint kitts and nevis,3
+Saint Lucia,saint lucia,2
+Saint Pierre and Miquelon,saint pierre and miquelon,3
+Saint Vincent and the Grenadines,saint vincent and the grenadines,0
+Samoa,samoa,2
+Sao Tome and Principe,sao tome and principe,3
+Saudi Arabia,saudi arabia,2
+Senegal,senegal,0
+Serbia,serbia,2
+Serbia and Montenegro,serbia and montenegro,3
+Seychelles,seychelles,0
+Sierra Leone,sierra leone,0
+Singapore,singapore,0
+Slovakia,slovakia,2
+Slovenia,slovenia,2
+Solomon Islands,solomon islands,3
+Somalia,somalia,2
+South Africa,south africa,4
+South America,south america,4
+South Korea,south korea,0
+South Sudan,south sudan,3
+South and Central America (EI),south and central america ei,4
+Spain,spain,0
+Sri Lanka,sri lanka,3
+Sudan,sudan,3
+Suriname,suriname,0
+Sweden,sweden,0
+Switzerland,switzerland,3
+Syria,syria,2
+Taiwan,taiwan,3
+Tajikistan,tajikistan,3
+Tanzania,tanzania,3
+Thailand,thailand,3
+Togo,togo,0
+Tonga,tonga,0
+Trinidad and Tobago,trinidad and tobago,3
+Tunisia,tunisia,2
+Turkey,turkey,0
+Turkmenistan,turkmenistan,0
+Turks and Caicos Islands,turks and caicos islands,3
+Tuvalu,tuvalu,0
+U.S. Pacific Islands (EIA),us pacific islands eia,3
+U.S. Territories (EIA),us territories eia,1
+USSR,ussr,0
+Uganda,uganda,3
+Ukraine,ukraine,0
+United Arab Emirates,united arab emirates,0
+United Kingdom,united kingdom,0
+United States,united states,0
+United States Pacific Islands (Shift),united states pacific islands shift,3
+United States Territories (Shift),united states territories shift,0
+United States Virgin Islands,united states virgin islands,3
+Upper-middle-income countries,uppermiddleincome countries,0
+Uruguay,uruguay,0
+Uzbekistan,uzbekistan,3
+Vanuatu,vanuatu,3
+Venezuela,venezuela,0
+Vietnam,vietnam,2
+Wake Island (EIA),wake island eia,3
+Wake Island (Shift),wake island shift,3
+West Germany,west germany,3
+Western Africa (EI),western africa ei,4
+Western Europe (EIA),western europe eia,1
+Western Sahara,western sahara,0
+World,world,0
+Yemen,yemen,0
+Yugoslavia,yugoslavia,2
+Zambia,zambia,2
+Zimbabwe,zimbabwe,0
